@@ -1,4 +1,4 @@
 FM,Connected_Clusters,Failure_Rate
-FMA,Cluster1;Cluster2,8
-FMB,Cluster2;Cluster3,12
-FMC,Cluster3,12
+FMA,Cluster1;Cluster2,0.08
+FMB,Cluster2;Cluster3,0.12
+FMC,Cluster3,0.12
